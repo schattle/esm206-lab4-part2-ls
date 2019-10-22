@@ -47,3 +47,15 @@ ggplotly(iris_graph)
 
 ```
 
+### B. Interactive Table of with DT
+
+```{r}
+
+```
+
+
+
+```{r}
+datatable(msleep)
+```
+
