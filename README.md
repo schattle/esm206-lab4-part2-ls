@@ -1,1 +1,8 @@
-# esm206-lab4-part2-ls
+# My ReadMe!
+
+- bullet points
+- yup
+
+and **useful information** !
+
+*woo*
